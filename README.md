@@ -3,15 +3,15 @@ Base project for lab assignment 1
 
 ------Elements------
 
-<head>.. In the head tag is described all the page's meta data.
+Head: In the head tag is described all the page's meta data.
 
-<body>.. Here is the page structure, containing all other tags describing the visual settings.
+Body: Here is the page structure, containing all other tags describing the visual settings.
 
-Inside the body is a <table> tag, and each <tr> of the table is a main part of the page (top, news table and bottom)
+Inside the body is a table tag, and each tr of the table is a main part of the page (top, news table and bottom)
 
-*the <tr> tag describes a row, and a <td> tag describes a cell inside that tr, all inside a <table> tag*
+The tr tag describes a row, and a td tag describes a cell inside that tr, all inside a table tag
 
-In each there is another table to structure well the top, news table and bottom, being the most extensive the news table. There, each <tr> is a different news entry.
+In each there is another table to structure well the top, news table and bottom, being the most extensive the news table. There, each tr is a different news entry.
 
 
 ------Sources------
